@@ -1,6 +1,6 @@
 # npmtest-shipit-cli
 
-#### test coverage for  [shipit-cli (v3.0.0)](https://github.com/shipitjs/shipit)  [![npm package](https://img.shields.io/npm/v/npmtest-shipit-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-shipit-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-shipit-cli.svg)](https://travis-ci.org/npmtest/node-npmtest-shipit-cli)
+#### basic test coverage for  [shipit-cli (v3.0.0)](https://github.com/shipitjs/shipit)  [![npm package](https://img.shields.io/npm/v/npmtest-shipit-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-shipit-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-shipit-cli.svg)](https://travis-ci.org/npmtest/node-npmtest-shipit-cli)
 
 #### Universal automation and deployment tool written in JavaScript.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-shipit-cli/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-shipit-cli/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-shipit-cli/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-shipit-cli/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-shipit-cli/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-shipit-cli/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-shipit-cli/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-shipit-cli/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-shipit-cli/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-shipit-cli/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-shipit-cli/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-shipit-cli/build/coverage.html/index.html)
 
